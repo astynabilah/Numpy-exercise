@@ -1,17 +1,38 @@
-## 100 numpy exercises
+## Computing SG DS Exercise 1 (Bag 1: NUMPY)
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/rougier/numpy-100/notebooks/100%20Numpy%20exercises.ipynb)
+Halooo!👋👋👋
 
-This is a collection of numpy exercises from numpy mailing list, stack overflow, and numpy documentation. I've also created some problems myself to reach the 100 limit. The goal of this collection is to offer a quick reference for both old and new users but also to provide a set of exercises for those who teach. For extended exercises, make sure to read [From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/).
+Karena hari ini jadwalnya SG DS jadiii pertemuan pertama buat hari ini bakal diganti dengan tugas pemanasan dulu yaa😊
 
-→ [Test them on Binder](http://mybinder.org:/repo/rougier/numpy-100/notebooks/100_Numpy_exercises.ipynb)  
-→ [Read them on GitHub](100_Numpy_exercises.md)  
+So, untuk exercise pertama bagian 1 ini terdapat 100 pertanyaan soal numpy!
 
-Note: markdown and ipython notebook are created programmatically from the source data in `source/exercises.ktx`.
-To modify the content of these files, please change the text in the source and run the `generators.py` module with a python
-interpreter with the libraries under `requirements.txt` installed.
+Terdapat beberapa difficulty soal yang kalian akan kerjakan:
+- (★☆☆): Easy
+- (★★☆): Medium
+- (★★★): Hard 
 
-The keyed text format (`ktx`) is a minimal human readable key-values to store text (markdown or others) indexed by keys. 
+Tapi jangan pusing dulu, kalian tidak perlu mengerjakan semuanya, banyak soal yang kalian kerjakan dari masing-masing difficulty adalah seperti berikut:
+- (★☆☆): kerjakan 15 soal
+- (★★☆): kerjakan 10 soal
+- (★★★): kerjakan 5 soal
 
-This work is licensed under the MIT license.  
-[![DOI](https://zenodo.org/badge/10173/rougier/numpy-100.svg)](https://zenodo.org/badge/latestdoi/10173/rougier/numpy-100)
+
+### Prerequisite
+Sebelum kalian mulai mengerjakan soal, install dulu ya requirements nya.
+
+#### How to install inside the notebook
+- jalankan perintah `!pip install -r requirements.txt` di salah satu cell
+
+#### How to install outside the notebook
+- jalankan `pip install -r requirements.txt` di terminal
+
+#### Good Practice
+- Please use anaconda package instead of only python
+- Bikin environment baru khusus untuk SG ini, agar install package nya tidak conflict dengan yang lain
+
+
+**Kalian tentu akan menemukan jawabannya di repository yang diberikan dibawah atau di google, tapi kita encourage kalian untuk mengerjakan sendiri dulu**
+
+
+### Disclaimer
+You can find the originial repository and author here https://github.com/rougier/numpy-100
