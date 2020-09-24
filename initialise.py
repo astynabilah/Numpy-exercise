@@ -11,10 +11,6 @@ def hint(n):
     print(ge.QHA[f'h{n}'])
 
 
-def answer(n):
-    print(ge.QHA[f'a{n}'])
-
-
 def pick():
     n = np.random.randint(1, 100)
     question(n)
